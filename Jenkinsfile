@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         // Replace with your Docker Registry / Docker Hub username
-        IMAGE_NAME = 'your-docker-username/java-microservice'
+        IMAGE_NAME = 'heetu10/java-microservice'
         DOCKER_CREDENTIALS_ID = 'docker-hub-credentials'
     }
 
