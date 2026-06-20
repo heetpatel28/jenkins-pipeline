@@ -2,6 +2,8 @@
 
 This repository contains a complete CI/CD pipeline setup for a Java microservice using **Jenkins**, **Blue Ocean**, **Docker**, and **Maven**.
 
+> Created by **[Heet Patel](https://github.com/heetpatel28)**
+
 ---
 
 ## Pipeline Architecture
@@ -142,3 +144,9 @@ To view the visually appealing pipelines:
 > [!TIP]
 > - The **Deploy** stage will run automatically **only** when changes are merged to the `main` branch.
 > - The **JUnit test results** tab in Blue Ocean will present graphical trends of passed, skipped, or failed test suites automatically on every run.
+
+---
+
+## 👤 Author
+
+This repository was created and is maintained by **[Heet Patel](https://github.com/heetpatel28)**. Feel free to reach out or contribute!

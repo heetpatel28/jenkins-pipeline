@@ -9,8 +9,16 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Java Microservice</name>
-    <description>A sample Java microservice to demonstrate Jenkins Multi-branch Pipeline with Blue Ocean</description>
+    <name>Java Microservice CI/CD Jenkins Pipeline</name>
+    <description>A complete Jenkins Multibranch Pipeline with Blue Ocean setup for a Java microservice, created by Heet Patel.</description>
+
+    <developers>
+        <developer>
+            <id>heetpatel28</id>
+            <name>Heet Patel</name>
+            <url>https://github.com/heetpatel28</url>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
