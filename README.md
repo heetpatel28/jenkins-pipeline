@@ -133,6 +133,12 @@ To view the visually appealing pipelines:
 2. Click the **Open Blue Ocean** link on the left-hand navigation panel.
 3. Select your pipeline. You will see a modern, node-based interactive graph displaying stages, live logs, test reports, and branch comparisons.
 
+### Jenkins Pipeline Dashboard
+![Jenkins Pipeline Dashboard](images/jenkins_pipeline_dashboard.png)
+
+### Jenkins Blue Ocean Visual Pipeline
+![Jenkins Blue Ocean Pipeline](images/jenkins_blue_ocean_pipeline.png)
+
 > [!TIP]
 > - The **Deploy** stage will run automatically **only** when changes are merged to the `main` branch.
 > - The **JUnit test results** tab in Blue Ocean will present graphical trends of passed, skipped, or failed test suites automatically on every run.
